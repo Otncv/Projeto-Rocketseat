@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
--Figma
+- Figma
 
 ## 💻 Projeto
 
@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Otncv 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
